@@ -1,5 +1,6 @@
 # orozcoadrian.github.io
 
-- shakespeare [page](shakespeare.html)
+- shakespeare [html](shakespeare.html)
 - shakespeare [pdf](Shakespeare-Complete-Works.pdf)
+- pendergrass [html](pendergrass.html)
 - pendergrass [pdf](pendergrass_book.pdf)
