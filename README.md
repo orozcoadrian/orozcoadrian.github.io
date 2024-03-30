@@ -1,3 +1,4 @@
 # orozcoadrian.github.io
 
-[shakespeare](shakespeare.html)
+- shakespeare [page](shakespeare.html)
+- shakespeare [pdf](Shakespeare-Complete-Works.pdf)
